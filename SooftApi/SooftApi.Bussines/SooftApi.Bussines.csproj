@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6734951E-9D2B-4718-8174-D2B59DCAE3F6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SooftApi.Bussines</RootNamespace>
+    <AssemblyName>SooftApi.Bussines</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="SingerBussines.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SooftApi.Dao\SooftApi.Dao.csproj">
+      <Project>{7e0ed4b2-8f48-4744-9cfb-d5ca8662192e}</Project>
+      <Name>SooftApi.Dao</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SooftApi.Helper\SooftApi.Helper.csproj">
+      <Project>{8016a52b-71c7-4ed9-a77a-6357dac6153f}</Project>
+      <Name>SooftApi.Helper</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SooftApi.Mock\SooftApi.Mock.csproj">
+      <Project>{d3f0d0a2-1d8b-4c2e-ba40-774fe38e961f}</Project>
+      <Name>SooftApi.Mock</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SooftApi.Model\SooftApi.Model.csproj">
+      <Project>{F8FCEBC8-45DB-4BDB-BCF8-2FC0F54835D1}</Project>
+      <Name>SooftApi.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SooftApi.ViewModel\SooftApi.ViewModel.csproj">
+      <Project>{7aa5c98d-c230-484f-a0c4-1f4efa08fc0c}</Project>
+      <Name>SooftApi.ViewModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

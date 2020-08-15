@@ -1,0 +1,10 @@
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Dao\bin\Debug\SooftApi.Dao.dll
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Dao\bin\Debug\SooftApi.Dao.pdb
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Dao\bin\Debug\SooftApi.Data.dll
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Dao\bin\Debug\SooftApi.Model.dll
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Dao\bin\Debug\SooftApi.Data.pdb
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Dao\bin\Debug\SooftApi.Model.pdb
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Dao\obj\Debug\SooftApi.Dao.csprojAssemblyReference.cache
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Dao\obj\Debug\SooftApi.Dao.csproj.CopyComplete
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Dao\obj\Debug\SooftApi.Dao.dll
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Dao\obj\Debug\SooftApi.Dao.pdb

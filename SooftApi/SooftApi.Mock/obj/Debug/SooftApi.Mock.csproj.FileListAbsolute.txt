@@ -1,0 +1,12 @@
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Mock\obj\Debug\SooftApi.Mock.csprojAssemblyReference.cache
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Mock\bin\Debug\SooftApi.Mock.dll
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Mock\bin\Debug\SooftApi.Mock.pdb
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Mock\bin\Debug\SooftApi.Dao.dll
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Mock\bin\Debug\SooftApi.Model.dll
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Mock\bin\Debug\SooftApi.Data.dll
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Mock\bin\Debug\SooftApi.Dao.pdb
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Mock\bin\Debug\SooftApi.Model.pdb
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Mock\bin\Debug\SooftApi.Data.pdb
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Mock\obj\Debug\SooftApi.Mock.csproj.CopyComplete
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Mock\obj\Debug\SooftApi.Mock.dll
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Mock\obj\Debug\SooftApi.Mock.pdb

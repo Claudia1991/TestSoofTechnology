@@ -1,0 +1,10 @@
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Helper\bin\Debug\SooftApi.Helper.dll
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Helper\bin\Debug\SooftApi.Helper.pdb
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Helper\bin\Debug\SooftApi.Model.dll
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Helper\bin\Debug\SooftApi.ViewModel.dll
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Helper\bin\Debug\SooftApi.Model.pdb
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Helper\bin\Debug\SooftApi.ViewModel.pdb
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Helper\obj\Debug\SooftApi.Helper.csprojAssemblyReference.cache
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Helper\obj\Debug\SooftApi.Helper.csproj.CopyComplete
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Helper\obj\Debug\SooftApi.Helper.dll
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Helper\obj\Debug\SooftApi.Helper.pdb

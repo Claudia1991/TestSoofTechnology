@@ -1,0 +1,5 @@
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Model\bin\Debug\SooftApi.Model.dll
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Model\bin\Debug\SooftApi.Model.pdb
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Model\obj\Debug\SooftApi.Model.csprojAssemblyReference.cache
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Model\obj\Debug\SooftApi.Model.dll
+C:\Users\Stardoc\source\repos\SooftApi\SooftApi.Model\obj\Debug\SooftApi.Model.pdb
